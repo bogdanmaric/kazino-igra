@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KazinoIgra", "KazinoIgra\KazinoIgra.vcxproj", "{363AABB7-68D5-47E6-9F2B-312DAF6CF733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{363AABB7-68D5-47E6-9F2B-312DAF6CF733}.Debug|x64.ActiveCfg = Debug|x64
+		{363AABB7-68D5-47E6-9F2B-312DAF6CF733}.Debug|x64.Build.0 = Debug|x64
+		{363AABB7-68D5-47E6-9F2B-312DAF6CF733}.Debug|x86.ActiveCfg = Debug|Win32
+		{363AABB7-68D5-47E6-9F2B-312DAF6CF733}.Debug|x86.Build.0 = Debug|Win32
+		{363AABB7-68D5-47E6-9F2B-312DAF6CF733}.Release|x64.ActiveCfg = Release|x64
+		{363AABB7-68D5-47E6-9F2B-312DAF6CF733}.Release|x64.Build.0 = Release|x64
+		{363AABB7-68D5-47E6-9F2B-312DAF6CF733}.Release|x86.ActiveCfg = Release|Win32
+		{363AABB7-68D5-47E6-9F2B-312DAF6CF733}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F9E5A0F-ED14-43CC-8CA5-1F18B17E63F5}
+	EndGlobalSection
+EndGlobal
